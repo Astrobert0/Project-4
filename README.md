@@ -1,5 +1,5 @@
 # Project-4
-This is a project to put in practice what we learned in statistics
+This is a project to put in practice statistics
 
 Presentation: https://docs.google.com/presentation/d/16eW06j339_9Tg5bDOUxJfjK4UYhD1FPtKiGUQMDhGNs/edit?usp=sharing
 
